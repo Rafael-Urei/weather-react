@@ -1,5 +1,5 @@
 import './App.css';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import Axios from 'axios';
 import { FaWater, FaWind, FaSearch } from 'react-icons/fa';
 import { MdLocationPin } from 'react-icons/md';
